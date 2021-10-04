@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = max.michielsen@gmail.com
+	name = Maximiliaan Michielsen
